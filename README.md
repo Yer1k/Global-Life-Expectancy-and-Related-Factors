@@ -1,8 +1,29 @@
+<a name="readme-top"></a>
+
 # Model and Representation of Data (IDS 702) Final Project
 
 ### Team Orange: [Pooja Kabber](https://www.linkedin.com/in/poojakabber/), [Echo Chen](https://www.linkedin.com/in/echochenxy/), [Dingkun Yang](https://www.linkedin.com/in/dyang7/), and [Andrew Kroening](https://www.linkedin.com/in/andrew-kroening/).
 
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#presentation">Presentation of the Project</a>
+      <ul>
+        <li><a href="#slides">PPT Slides</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#overview">Overview</a>
+    </li>
+    <li><a href="#repository-contents">Repository Contents</a></li>
+    <li><a href="#structure">Structure</a></li>
+  </ol>
+</details>
+
+<!-- Presentation -->
 ### Presentation
 
 Click on the image and watch our presentation on YouTube
@@ -11,12 +32,15 @@ Click on the image and watch our presentation on YouTube
 
 or visit url: https://youtu.be/iyczaHrG9HI
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 #### Slides
 
 [Presentation Slides](./Team_Presentation.pdf)
 
 
-
+<!-- Overview -->
 ### Overview
 
 In this project, our team attempted to find new insights into factors that drive human well-being around the world. We specifically look to investigate two areas: life expectancy and country development status with the goal of providing insights to policy and decision makers. Check out the presentation or report if you want the full summary, but here's a hint:
@@ -27,6 +51,8 @@ In this project, our team attempted to find new insights into factors that drive
 
 <img src="./Workspace/Question_2.png" alt="Question2" width="750"/>
 
+
+<!-- Repository Contents -->
 ### Repository Contents:
 
 * [Proposal](./Project%20Proposal/Orange_Proposal.pdf)...............04 October
@@ -35,6 +61,8 @@ In this project, our team attempted to find new insights into factors that drive
 * [Final Report](./Part%203%20-%20Report/Orange_Part_3.pdf)..........02 December
 * [Presentation](.//README.md#presentation).........01 December
 
+
+<!-- Structure -->
 ### Structure:
 
 * [Datasets](./Datasets) - This is where the datasets for the project are stored
